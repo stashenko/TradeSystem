@@ -103,6 +103,11 @@
             </exclusions>
         </dependency>
         <dependency>
+            <groupId>com.github.bloodmc</groupId>
+            <artifactId>GriefDefenderAPI</artifactId>
+            <version>1.0.0-dd5aa2224c-1</version>
+        </dependency>
+        <dependency>
             <groupId>me.clip</groupId>
             <artifactId>placeholderapi</artifactId>
             <version>2.10.9</version>
